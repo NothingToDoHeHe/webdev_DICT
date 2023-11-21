@@ -10,4 +10,4 @@ The following are the output from Web Development Training for Trainers from DIC
 				+ <script src="/bs/dist/js/bootstrap.min.js"></script>
 			+ This is correct!
 				+ <script src="bs/dist/js/bootstrap.min.js"></script>
-           
+- November 21 : Added Certification Section
