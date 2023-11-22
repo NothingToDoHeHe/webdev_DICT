@@ -11,3 +11,4 @@ The following are the output from Web Development Training for Trainers from DIC
 			+ This is correct!
 				+ <script src="bs/dist/js/bootstrap.min.js"></script>
 - November 21 : Added Certification Section
+- November 22 : Added Seperated page for trainings and seminars
